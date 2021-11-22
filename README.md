@@ -1,2 +1,2 @@
 # Initials
-this is to add sub branch
+it contains main events of the project
